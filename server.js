@@ -1,4 +1,4 @@
-import express from express;
+var express= require('express');
 function sleep(ms) {
   return new Promise(resolve => setTimeout(resolve, ms));
 }
