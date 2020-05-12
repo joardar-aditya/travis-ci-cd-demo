@@ -1,1 +1,5 @@
 node_modules/*
+deployment.yaml
+service.yaml
+nginx_deployment.yaml
+
